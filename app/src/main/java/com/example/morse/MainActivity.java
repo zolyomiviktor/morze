@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     Vibrator rezges;
-    SensorManager SensorManager;
     EditText edittext;
     RelativeLayout relative;
     TextView textView;
